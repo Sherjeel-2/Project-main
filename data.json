@@ -1,23 +1,23 @@
 {
     "Books": {
         "1": {
-            "Name": "Window",
-            "Autor": "Tom Bold",
-            "Rented": true
+            "Name": "Metamorphosis",
+            "Autor": "Franz Kafka",
+            "Rented": false
         },
         "2": {
-            "Name": "The Door",
-            "Autor": "John Parinson",
+            "Name": "The Alchemist",
+            "Autor": "Paulo Coelho",
             "Rented": false
         },
         "3": {
-            "Name": "My Name Is..",
-            "Autor": "Nolan",
+            "Name": "Everyone has a story",
+            "Autor": "Savi Sharma",
             "Rented": false
         },
         "4": {
-            "Name": "Fall In Love",
-            "Autor": "Sara Cley",
+            "Name": "Dear stranger I know how you feel",
+            "Autor": "Ashish bagrecha",
             "Rented": false
         },
         "5": {
@@ -26,14 +26,14 @@
             "Rented": false
         },
         "6": {
-            "Name": "The Hotel",
-            "Autor": "Tread Yong",
+            "Name": "The Trail",
+            "Autor": "Franz Kafka",
             "Rented": false
         },
         "7": {
-            "Name": "Rainy Days",
-            "Autor": "Calin Molion",
-            "Rented": true
+            "Name": "The Curfewed Night",
+            "Autor": "Basharat Peer",
+            "Rented": false
         }
     },
     "Users": {
@@ -107,9 +107,7 @@
         "002": {
             "Name": "Rupali P",
             "Password": "Rupali@16",
-            "RentedBooks": {
-                "7": "14/2/2023"
-            },
+            "RentedBooks": {},
             "CreditType": "Special",
             "BlockedStatus": [],
             "History": [
@@ -122,6 +120,11 @@
                     "5",
                     "14/2/2023",
                     "14/2/2023"
+                ],
+                [
+                    "7",
+                    "14/2/2023",
+                    "19/2/2023"
                 ]
             ]
         },

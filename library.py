@@ -8,13 +8,7 @@ class Library:
     def __init__(self, name):
         self.__name = name
     
-    # def __repr__(self):
-    #     data = jsLib.pullData()
-    #     return "Library {}; with {} members and {} books".format(
-    #         self.__name, 
-    #         len(data["Users"]), 
-    #         len(data["Books"])
-    #     )
+   
 
     def register(self, Id:str, name:str, password:str, creditType:str):
         if len(Id) < 1:
