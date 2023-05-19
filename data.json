@@ -43,7 +43,13 @@
             "RentedBooks": {},
             "CreditType": "Special",
             "BlockedStatus": [],
-            "History": []
+            "History": [
+                [
+                    "4",
+                    "19/5/2023",
+                    "19/5/2023"
+                ]
+            ]
         },
         "INT00942": {
             "Name": "SHERJEEL",
