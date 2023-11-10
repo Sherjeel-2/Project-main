@@ -1,8 +1,0 @@
-2023-01-16 09:22:31.902 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2023-01-16 09:22:33.728 [error] [Extension Host] (node:6360) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `Code --trace-deprecation ...` to show where the warning was created)
-2023-01-16 09:22:34.532 [info] [perf] Render performance baseline is 49ms
-2023-01-16 09:24:03.801 [error] [Extension Host] Error: spawn C:\Users\sharj\AppData\Local\Programs\Microsoft VS Code\docker ENOENT
-	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
-	at onErrorNT (node:internal/child_process:478:16)
-	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)

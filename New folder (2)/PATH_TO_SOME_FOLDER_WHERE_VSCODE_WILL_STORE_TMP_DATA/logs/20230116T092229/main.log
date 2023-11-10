@@ -1,8 +1,0 @@
-2023-01-16 09:22:29.301 [info] update#setState idle
-2023-01-16 09:22:31.314 [info] Starting extension host with pid 6360 (fork() took 16 ms).
-2023-01-16 09:22:59.286 [info] update#setState checking for updates
-2023-01-16 09:22:59.455 [info] update#setState idle
-2023-01-16 09:24:32.094 [info] update#setState checking for updates
-2023-01-16 09:24:32.231 [info] update#setState idle
-2023-01-16 09:24:46.244 [info] Waiting for extension host with pid 6360 to exit.
-2023-01-16 09:24:51.279 [info] Extension host with pid 6360 exited with code: 0, signal: null.
