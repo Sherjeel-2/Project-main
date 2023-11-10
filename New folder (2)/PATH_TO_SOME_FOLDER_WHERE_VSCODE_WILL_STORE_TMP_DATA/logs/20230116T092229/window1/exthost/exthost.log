@@ -1,0 +1,30 @@
+2023-01-16 09:22:32.517 [info] Extension host with pid 6360 started
+2023-01-16 09:22:32.634 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-16 09:22:32.636 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-16 09:22:32.637 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*', root cause: ms-vsliveshare.vsliveshare-audio
+2023-01-16 09:22:33.873 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-16 09:22:33.874 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-16 09:22:34.312 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-16 09:22:34.748 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare-audio, startup: true, activationEvent: '*'
+2023-01-16 09:22:35.114 [info] Eager extensions activated
+2023-01-16 09:22:35.118 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.119 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.119 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.119 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.120 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.120 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.120 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.120 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.120 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:35.121 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-01-16 09:22:36.733 [error] Error: Git model not found
+	at s.getAPI (c:\Users\sharj\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:1932751)
+	at new yp (c:\Users\sharj\.vscode\extensions\github.vscode-pull-request-github-0.56.0\dist\extension.js:1486:24405)
+	at yp.createProvider (c:\Users\sharj\.vscode\extensions\github.vscode-pull-request-github-0.56.0\dist\extension.js:1486:25142)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async V0 (c:\Users\sharj\.vscode\extensions\github.vscode-pull-request-github-0.56.0\dist\extension.js:1486:31256)
+	at async Ym (c:\Users\sharj\.vscode\extensions\github.vscode-pull-request-github-0.56.0\dist\extension.js:1515:5694)
+	at async Qv (c:\Users\sharj\.vscode\extensions\github.vscode-pull-request-github-0.56.0\dist\extension.js:1515:6799)
+2023-01-16 09:24:06.969 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onView:cell-tag'
+2023-01-16 09:24:46.137 [info] Extension host terminating: received terminate message from renderer
+2023-01-16 09:24:51.222 [info] Extension host with pid 6360 exiting with code 0

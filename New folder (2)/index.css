@@ -1,0 +1,23 @@
+.header
+{
+    background-color: blue;
+    text-align: center;
+    height: 5rem;
+}
+
+.intro
+{
+background-image: url("bg.jpg");
+background-size: cover;
+
+height:60vw;
+}
+.intro::before{
+    opacity: 0.6;
+}
+
+.intro.h1
+{
+    font-size: 4rem;
+
+}
